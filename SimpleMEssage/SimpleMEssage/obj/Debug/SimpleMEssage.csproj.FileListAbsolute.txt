@@ -1,0 +1,6 @@
+E:\C#\SimpleMEssage\SimpleMEssage\bin\Debug\SimpleMEssage.exe.config
+E:\C#\SimpleMEssage\SimpleMEssage\obj\Debug\SimpleMEssage.csprojResolveAssemblyReference.cache
+E:\C#\SimpleMEssage\SimpleMEssage\bin\Debug\SimpleMEssage.exe
+E:\C#\SimpleMEssage\SimpleMEssage\bin\Debug\SimpleMEssage.pdb
+E:\C#\SimpleMEssage\SimpleMEssage\obj\Debug\SimpleMEssage.exe
+E:\C#\SimpleMEssage\SimpleMEssage\obj\Debug\SimpleMEssage.pdb

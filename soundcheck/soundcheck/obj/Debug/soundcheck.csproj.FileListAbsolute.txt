@@ -1,0 +1,10 @@
+E:\C#\soundcheck\soundcheck\bin\Debug\soundcheck.exe.config
+E:\C#\soundcheck\soundcheck\bin\Debug\soundcheck.exe
+E:\C#\soundcheck\soundcheck\bin\Debug\soundcheck.pdb
+E:\C#\soundcheck\soundcheck\obj\Debug\soundcheck.csprojResolveAssemblyReference.cache
+E:\C#\soundcheck\soundcheck\obj\Debug\soundcheck.Form1.resources
+E:\C#\soundcheck\soundcheck\obj\Debug\soundcheck.Properties.Resources.resources
+E:\C#\soundcheck\soundcheck\obj\Debug\soundcheck.Resource1.resources
+E:\C#\soundcheck\soundcheck\obj\Debug\soundcheck.csproj.GenerateResource.Cache
+E:\C#\soundcheck\soundcheck\obj\Debug\soundcheck.exe
+E:\C#\soundcheck\soundcheck\obj\Debug\soundcheck.pdb

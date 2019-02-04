@@ -1,0 +1,9 @@
+E:\C#\Singleton\Singleton\bin\Debug\Singleton.exe.config
+E:\C#\Singleton\Singleton\bin\Debug\Singleton.exe
+E:\C#\Singleton\Singleton\bin\Debug\Singleton.pdb
+E:\C#\Singleton\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+E:\C#\Singleton\Singleton\obj\Debug\Singleton.Form1.resources
+E:\C#\Singleton\Singleton\obj\Debug\Singleton.Properties.Resources.resources
+E:\C#\Singleton\Singleton\obj\Debug\Singleton.csproj.GenerateResource.Cache
+E:\C#\Singleton\Singleton\obj\Debug\Singleton.exe
+E:\C#\Singleton\Singleton\obj\Debug\Singleton.pdb

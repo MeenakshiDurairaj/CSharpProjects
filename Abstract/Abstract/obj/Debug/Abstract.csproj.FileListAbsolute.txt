@@ -1,0 +1,9 @@
+E:\C#\Abstract\Abstract\bin\Debug\Abstract.exe.config
+E:\C#\Abstract\Abstract\bin\Debug\Abstract.exe
+E:\C#\Abstract\Abstract\bin\Debug\Abstract.pdb
+E:\C#\Abstract\Abstract\obj\Debug\Abstract.csprojResolveAssemblyReference.cache
+E:\C#\Abstract\Abstract\obj\Debug\Abstract.Form1.resources
+E:\C#\Abstract\Abstract\obj\Debug\Abstract.Properties.Resources.resources
+E:\C#\Abstract\Abstract\obj\Debug\Abstract.csproj.GenerateResource.Cache
+E:\C#\Abstract\Abstract\obj\Debug\Abstract.exe
+E:\C#\Abstract\Abstract\obj\Debug\Abstract.pdb

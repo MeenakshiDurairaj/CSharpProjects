@@ -1,0 +1,6 @@
+E:\C#\Fibonnocci_Series\Fibonnocci_Series\bin\Debug\Fibonnocci_Series.exe.config
+E:\C#\Fibonnocci_Series\Fibonnocci_Series\bin\Debug\Fibonnocci_Series.exe
+E:\C#\Fibonnocci_Series\Fibonnocci_Series\bin\Debug\Fibonnocci_Series.pdb
+E:\C#\Fibonnocci_Series\Fibonnocci_Series\obj\Debug\Fibonnocci_Series.csprojResolveAssemblyReference.cache
+E:\C#\Fibonnocci_Series\Fibonnocci_Series\obj\Debug\Fibonnocci_Series.exe
+E:\C#\Fibonnocci_Series\Fibonnocci_Series\obj\Debug\Fibonnocci_Series.pdb
