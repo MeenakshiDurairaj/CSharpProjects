@@ -1,0 +1,14 @@
+E:\C#\3D_Graphics\3D_Graphics\bin\Debug\3D_Graphics.exe.config
+E:\C#\3D_Graphics\3D_Graphics\bin\Debug\3D_Graphics.exe
+E:\C#\3D_Graphics\3D_Graphics\bin\Debug\3D_Graphics.pdb
+E:\C#\3D_Graphics\3D_Graphics\obj\Debug\3D_Graphics.csprojResolveAssemblyReference.cache
+E:\C#\3D_Graphics\3D_Graphics\obj\Debug\MainWindow.g.cs
+E:\C#\3D_Graphics\3D_Graphics\obj\Debug\App.g.cs
+E:\C#\3D_Graphics\3D_Graphics\obj\Debug\3D_Graphics_MarkupCompile.cache
+E:\C#\3D_Graphics\3D_Graphics\obj\Debug\3D_Graphics_MarkupCompile.lref
+E:\C#\3D_Graphics\3D_Graphics\obj\Debug\MainWindow.baml
+E:\C#\3D_Graphics\3D_Graphics\obj\Debug\3D_Graphics.g.resources
+E:\C#\3D_Graphics\3D_Graphics\obj\Debug\_3D_Graphics.Properties.Resources.resources
+E:\C#\3D_Graphics\3D_Graphics\obj\Debug\3D_Graphics.csproj.GenerateResource.Cache
+E:\C#\3D_Graphics\3D_Graphics\obj\Debug\3D_Graphics.exe
+E:\C#\3D_Graphics\3D_Graphics\obj\Debug\3D_Graphics.pdb
